@@ -1,11 +1,13 @@
-# odin-recipes
+# Odin Recipes
 
-A (very) simple recipe book project to show off the basics of HTML under The Odin Projects curriculum.
+A (very) simple recipe book project created to demonstrate the basics of HTML as part of The Odin Project curriculum.
 
-The following HTML concepts are used so far: 
-1. Elements
-2. Tags
-3. Links 
-    3.1 Relative Links 
-        - Navigating from the homepage to different pages in the same folder.
-4. Images
+## HTML Concepts Used So Far
+1. **Elements**
+2. **Tags**
+3. **Links**  
+   - **Relative Links**  
+     Navigating from the homepage to different pages within the same folder.
+4. **Images**
+
+This project serves as an introduction to HTML structure and navigation.
